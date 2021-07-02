@@ -8,7 +8,7 @@
 
 using namespace std;
 
-//This is based on a thought experiment.
+//The verification requires an experiment. 
 
 int main()
 {
